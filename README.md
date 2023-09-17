@@ -1,4 +1,4 @@
-# Python Cpmprenhension, Funciones y Manejo de Erorres 😎
+# Python Comprenhension, Funciones y Manejo de Erorres 😎
 
 <img alt="Codeship" src="https://img.shields.io/badge/Avance_del_Curso-5%25-brightgreen">
 
