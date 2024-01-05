@@ -15,6 +15,7 @@ print(set_a & set_b)  # operador & para intersection
 # del conjunto B en el conjunto A
 set_c = set_a.difference(set_b)
 print(set_c)
+print(set_b.difference(set_a))
 print(set_a - set_b)  # operador para diferencia
 
 # unir los conjuntos sin el elemento en comun

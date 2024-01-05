@@ -12,7 +12,7 @@ if "col" in set_countries:
     print(True)
 
 print("col" in set_countries)
-# lo mismo que el if linea 7
+# lo mismo que el if linea 11
 
 ## Add ##
 set_countries.add("pe")
@@ -20,7 +20,7 @@ print(set_countries)
 # metodo add para agregar datos al set
 
 
-## Update ##
+## Update ##0
 set_countries.update({"ar", "ecua", "pe"})
 print(set_countries)
 
@@ -28,8 +28,9 @@ print(set_countries)
 ## Delete ##
 set_countries.remove("col")
 print(set_countries)
-set_countries.discard("colo")
+set_countries.discard("coxcxlo")
 # No crashea si el elemento no existe
+print(set_countries)
 
 set_countries.clear()
 print(set_countries)
